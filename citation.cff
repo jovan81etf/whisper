@@ -3,7 +3,7 @@ authors:
 - family-names: "Galić"
   given-names: "Jovan"
   orcid: "https://orcid.org/0000-0002-2487-7136"
-title: "whisper"
+title: "whisper recognition"
 version: 1.0.0
 date-released: 2024-02-18
 url: "https://github.com/jovan81etf/whisper"
